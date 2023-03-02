@@ -1,6 +1,7 @@
 {
   "$schema": "./node_modules/nx/schemas/nx-schema.json",
   "npmScope": "nx-workshop",
+  "defaultProject": "cypress-demo",
   "affected": {
     "defaultBase": "master"
   },
